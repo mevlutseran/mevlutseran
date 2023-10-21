@@ -1,42 +1,58 @@
-
-<h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Mevlüt Şeran 🕊</h1>
-
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
-
-  ![Manjaro](https://img.shields.io/badge/manjaro-cD1?style=for-the-badge&logo=manjaro&logoColor=blue)
-  ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
-  ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=blue)
-  ![Bs4](https://img.shields.io/badge/bs4-cD1?style=for-the-badge&logo=python)
-  ![Pandas](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&logoColor=blue)
-  ![Numpy](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy&logoColor=red)
-  ![Keras](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras&logoColor=red)
-  ![PyTorch](https://img.shields.io/badge/pytorch-cD1?style=for-the-badge&logo=pytorch&logoColor=red)
-  ![TensorFlow](https://img.shields.io/badge/tensorflow-cD1?style=for-the-badge&logo=tensorflow&logoColor=red)
-  ![Pyrogram](https://img.shields.io/badge/pyrogram-cD1?style=for-the-badge&logo=python)
-  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=blue)
-  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
-  ![PHP](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
-  ![React](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react&logoColor=blue)
-  ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
-  ![MongoDB](https://img.shields.io/badge/mongodb-cD1?style=for-the-badge&logo=mongodb)
-
-</details>
-
-<h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
-
-<div align="center">
-  <a target="_blank" href="https://www.t.me/Prfsr">           <img  alt="iletisim | Telegram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg"></a>
-  <a target="_blank" href="https://instagram.com/_seran">      <img alt="iletisim | Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg"></a>
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mevlüt+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
+        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+        </ul>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 </div>
 
----
+------
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri</summary>
+Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
 
-  ![Mevlüt Şeran'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mevlutseran&show_icons=true&theme=dark)
-  ![Mevlüt Şeran'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutseran&layout=compact&theme=dark)
-
-</details>
+Last edited on: 31/01/2022
